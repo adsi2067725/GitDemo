@@ -1,3 +1,3 @@
 # GitDemo
 Proyecto demo de git
-Realizado por OzKr Sierra
+Realizado por OzKr Sierra demo
